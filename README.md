@@ -1,7 +1,7 @@
 # P1_Komnum_D03
 
 
-## Identitas
+## Identitas Kelompok 3
 | Name                                  | NRP         | Kelas      |
 | ---                                   | ---         | -----------|
 | Gabrielle Immanuel Osvaldo Kurniawan  | 5025211135  | Komnum  D  |
